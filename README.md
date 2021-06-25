@@ -1,5 +1,7 @@
 # 薅羊毛大学（Office365）
 
+> **OneDrive资源分享生态,了解一下：[传送门](http://1ove.ga)**
+
 ## 自助注册
 
 &emsp;&emsp;地址：[https://ceo.qiantigers.workers.dev](https://ceo.qiantigers.workers.dev/)
