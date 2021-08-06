@@ -4,7 +4,7 @@
 
 ## 自助注册
 
-&emsp;&emsp;地址：[https://blog.1ove.ml/post/free_user/](https://blog.1ove.ml/post/free_user/)
+&emsp;&emsp;地址：[https://freems.1ove.club/](https://freems.1ove.club/)
 
 ## 订阅详情
 
