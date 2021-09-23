@@ -1,30 +1,60 @@
-# 薅羊毛大学（Office365）
+>  **OneDrive资源分享生态,了解一下：[传送门](https://1ove.club/1oveCommunity.html)**
+>
+>
+>  
+>  ✨记得Star哦~
 
-> **OneDrive资源分享生态,了解一下：[传送门](https://1ove.club)**
+## 薅羊毛大学
 
-## 自助注册
+### ① 自助注册
 
-&emsp;&emsp;地址：[https://freems.1ove.club/](https://freems.1ove.club/)
+&emsp;&emsp;地址：[https://freems.1ove.club/ceo](https://freems.1ove.club/ceo)
 
-## 订阅详情
+### ② 订阅详情
 
 * 订阅：A1
 
-* 域创立时间：2018年7月17日
+  <img src="https://cdn.jsdelivr.net/gh/qiantigers/p000i000c/PicGo/1588486277071a675b9243c1ddebb.jpg" width=360 />
 
-* 获取代价：白嫖
 
-  ![](https://cdn.jsdelivr.net/gh/qiantigers/p000i000c/PicGo/1588486277071a675b9243c1ddebb.jpg)
 
-## 对应群组
-
-&emsp;&emsp;Telegram群组：[https://t.me/HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
-
-## 扩容
+### ③ 扩容
 
 &emsp;&emsp;免费支持：仅1ove表演域成员
 
 &emsp;&emsp;付费支持：[传送门](https://shop.qian.blue/buy/7)
+
+## TCBC School
+
+### ① 自助注册
+
+&emsp;&emsp;地址：[https://freems.1ove.club/a](https://freems.1ove.club/a)
+
+### ② 订阅详情
+
+* 订阅：A1
+
+<img src="https://p.pstatp.com/origin/pgc-image/c573b471a7d042459fca46ee29d5b3f4" width=360 />
+
+
+
+## 探索大学
+
+### ① 自助注册
+
+&emsp;&emsp;地址：[https://freems.1ove.club/exp](https://freems.1ove.club/exp)
+
+### ② 订阅详情
+
+* 订阅：Team Exploratory 无到期时间版
+
+<img src="https://p.pstatp.com/origin/pgc-image/a69ec05fc1db4711a3cf78f44301413c" width=360 />
+
+## Telegram
+
+&emsp;&emsp;🔈 频道：[@Our_1oveCommunity](https://t.me/Our_1oveCommunity) （里面**有资源**进行分享）
+
+&emsp;&emsp;💬 群组：[@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
 
 ## 建议
 
