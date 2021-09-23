@@ -22,7 +22,7 @@
 
 &emsp;&emsp;免费支持：仅1ove表演域成员
 
-&emsp;&emsp;付费支持：[传送门](https://shop.qian.blue/buy/7)
+&emsp;&emsp;付费支持：[传送门](https://shop.1ove.club/buy/7)
 
 ## TCBC School
 
