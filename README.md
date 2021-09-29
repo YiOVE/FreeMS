@@ -1,7 +1,7 @@
 >  **OneDrive资源分享生态,了解一下：[传送门](https://1ove.club/1oveCommunity.html)**
 >
->
 >  
+>
 >  ✨记得Star哦~
 
 ## 薅羊毛大学
@@ -10,11 +10,15 @@
 
 &emsp;&emsp;地址：[https://freems.1ove.club/ceo](https://freems.1ove.club/ceo)
 
-### ② 订阅详情
+### ② 详情
 
 * 订阅：A1
 
   <img src="https://cdn.jsdelivr.net/gh/qiantigers/p000i000c/PicGo/1588486277071a675b9243c1ddebb.jpg" width=360 />
+
+* OneDrive容量：2TB
+
+* 获取：白嫖
 
 
 
@@ -34,7 +38,11 @@
 
 * 订阅：A1
 
-<img src="https://p.pstatp.com/origin/pgc-image/c573b471a7d042459fca46ee29d5b3f4" width=360 />
+  <img src="https://p.pstatp.com/origin/pgc-image/c573b471a7d042459fca46ee29d5b3f4" width=360 />
+
+* OneDrive容量：2TB
+
+* 获取：白嫖
 
 
 
@@ -48,7 +56,11 @@
 
 * 订阅：Team Exploratory 无到期时间版
 
-<img src="https://p.pstatp.com/origin/pgc-image/a69ec05fc1db4711a3cf78f44301413c" width=360 />
+  <img src="https://p.pstatp.com/origin/pgc-image/a69ec05fc1db4711a3cf78f44301413c" width=360 />
+
+* 获取：1元邀请码
+
+* OneDrive容量：5TB
 
 ## Telegram
 
@@ -58,4 +70,4 @@
 
 ## 建议
 
-&emsp;&emsp;因为其各种不确定性，所以不建议用其进行长期存储，并且也不能保证可以维持多久。希望是用其进行方便分享，比如搭建目录程序，**但不要分享不合规矩的文件，发现后是零容忍的**。
+&emsp;&emsp;因为其各种不确定性，所以**不建议用其进行长期存储**，并且也不能保证可以维持多久。**希望是用其进行方便分享**，比如搭建目录程序，**但不要分享不合规矩的文件，发现后是零容忍的**。
