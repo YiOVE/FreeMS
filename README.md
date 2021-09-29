@@ -58,9 +58,10 @@
 
   <img src="https://p.pstatp.com/origin/pgc-image/a69ec05fc1db4711a3cf78f44301413c" width=360 />
 
+* OneDrive容量：5TB
+
 * 获取：1元邀请码
 
-* OneDrive容量：5TB
 
 ## Telegram
 
