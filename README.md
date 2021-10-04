@@ -4,7 +4,7 @@
 >
 >  ✨记得Star哦~
 
-## 薅羊毛大学
+## 一、薅羊毛大学
 
 ### ① 自助注册
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;付费支持：[传送门](https://shop.1ove.club/buy/7)
 
-## TCBC School
+## 二、TCBC School
 
 ### ① 自助注册
 
@@ -44,9 +44,20 @@
 
 * 获取：白嫖
 
+## 三、白白大学
 
+### ① 自助注册
 
-## 探索大学
+&emsp;&emsp;地址：[https://freems.1ove.club/baibai](https://freems.1ove.club/baibai)
+
+### ② 订阅详情
+
+* 订阅：A1
+* OneDrive容量：5TB
+* 获取：白嫖
+* 支持邮箱功能
+
+## 四、探索大学
 
 ### ① 自助注册
 
