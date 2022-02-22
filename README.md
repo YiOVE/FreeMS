@@ -4,7 +4,7 @@
 >
 >  ✨记得Star哦~
 
-## 一、薅羊毛大学
+## 一、薅羊毛大学（失效）
 
 ### ① 自助注册
 
@@ -20,15 +20,13 @@
 
 * 获取：白嫖
 
-
-
 ### ③ 扩容
 
 &emsp;&emsp;免费支持：仅1ove表演域成员
 
 &emsp;&emsp;付费支持：[传送门](https://shop.1ove.club/buy/7)
 
-## 二、TCBC School
+## 二、TCBC School（失效）
 
 ### ① 自助注册
 
@@ -37,8 +35,6 @@
 ### ② 订阅详情
 
 * 订阅：A1
-
-  <img src="https://p.pstatp.com/origin/pgc-image/c573b471a7d042459fca46ee29d5b3f4" width=360 />
 
 * OneDrive容量：2TB
 
@@ -67,11 +63,9 @@
 
 * 订阅：Team Exploratory 无到期时间版
 
-  <img src="https://p.pstatp.com/origin/pgc-image/a69ec05fc1db4711a3cf78f44301413c" width=360 />
+* OneDrive容量：1TB
 
-* OneDrive容量：5TB
-
-* 获取：1元邀请码
+* 获取：需购买邀请码
 
 
 ## Telegram
